@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlobm5oZXJicmZ0c3Nkd2YzMmUzeHYxa3d2dGJ2Z2JpZDVzOW9yZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width=600 heigth=450/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21xbjN2am54cmFyeDhwOTZiczduemJoeHBla3VwZHQwMm11eDc3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t8pyZiiSnqzrRUAjgU/giphy.gif" width=600 heigth=450/>
 📖 I'm just an ordinary kid<br> I'm junior backend developer<br>✨
 
 
